@@ -54,7 +54,7 @@ python app.py
 Open:
 
 ```
-[http://127.0.0.1:8050](http://127.0.0.1:8052/)
+http://127.0.0.1:8052/
 ```
 
 ## Screenshots
